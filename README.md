@@ -1,6 +1,6 @@
 # try_provider
 
-A new Flutter project.
+a simple counter using provider state management
 
 ## Getting Started
 
