@@ -1,6 +1,5 @@
 # try_provider
 
-a simple counter using provider state management
 
 ## Getting Started
 
